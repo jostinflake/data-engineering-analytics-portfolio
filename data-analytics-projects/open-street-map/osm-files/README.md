@@ -1,1 +1,1 @@
-Contains the open street map data files. The original OSM file was 57MB and git wouldnt let me upload for somereason. 
+Contains the open street map data files. The original OSM file was 57MB and git wouldnt let me upload for some reason. 
