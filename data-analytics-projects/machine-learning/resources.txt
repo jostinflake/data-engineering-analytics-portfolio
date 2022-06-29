@@ -1,0 +1,60 @@
+Resources Used
+
+
+Python. CSV [Aug 2020] Official documentation on csv. 
+	Retrieved from https://docs.python.org/2/library/csv.html
+
+Scikit Learn. Metrics [Aug 2020] Official documentation on sklearn.metrics. 
+	Retrieved from https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics
+
+Scikit Learn. Naive Bayes [Aug 2020] Official documentation on sklearn.naive_bayes.GaussianNB
+	Retrieved from https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html
+
+Scikit Learn. DecisionTree [Aug 2020] Official documentation on sklearn.tree.DecisionTree. 
+	Retrieved from https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+
+Scikit Learn. SVC [Aug 2020] Official documentation on sklearn.svm.SVC
+	Retrieved from https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+
+Scikit Learn. KNeighbors [Aug 2020] Official documentation on sklearn.neighbors.KNeighborsClassifier
+	Retrieved from https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+
+Scikit Learn. GridSearchCV [Aug 2020] Official documentation on sklearn.model_selection.GridSearchCV. 
+	Retrieved from https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+
+Scikit Learn. SelectKBest [Aug 2020] Official documentation on sklearn.feature_selection.SelectKBest. 
+	Retrieved from https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html
+
+Scikit Learn. Variance Threshold [Aug 2020] Official documentation on sklearn.feature_selection.VarianceThreshold. 
+	Retrieved from https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.VarianceThreshold.html
+
+Scikit Learn. f_classif [Aug 2020] Official documentation on sklearn.feature_selection.f_classif. 
+	Retrieved from https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.f_classif.html#sklearn.feature_selection.f_classif
+
+Scikit Learn. Stratified Shuffle Split [Aug 2020] Official documentation on sklearn.model_selection.StratifiedShuffleSplit.
+	Retrieved from https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedShuffleSplit.html
+
+w3 Schools. Zip. [Aug 2020] Documentation on python zip() function. 
+	Retrieved from https://www.w3schools.com/python/ref_func_zip.asp#:~:text=The%20zip()%20function%20returns,iterator%20are%20paired%20together%20etc.
+
+Scikit Learn. Feature Importances [Aug 2020] Official documentation on sklearn.tree.DecisionTree.feature_importances_. 
+	Retrieved from https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier.feature_importances_
+
+Numpy. Argsort.[Aug 2020] Official documentation on numpy.argsort. 
+	Retrieved from https://numpy.org/doc/stable/reference/generated/numpy.argsort.html
+
+Scikit Learn. Pipeline. [Aug 2020] Official documentation on sklearn.pipeline.Pipeline
+	Retrieved from https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+
+Scikit Learn. Feature Union. [Sep 2020] Official documentation on sklearn.pipeline.FeatureUnion
+	Retrieved from https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.FeatureUnion.html
+
+Scikit Learn. PCA. [Sep 2020] Official documentation on sklearn.decomposition.PCA
+	Retrieved from https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+
+Scikit Learn. MinMaxScaler [Sep 2020] Official documentation on sklearn.preporcessing.MinMaxScaler
+	Retrieved from https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html
+
+Scitkit Learn. Adaboost [Sep 2020] Official documentation on sklearn.ensemble.AdaBoostClassifier
+	Retrieved from https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
+
