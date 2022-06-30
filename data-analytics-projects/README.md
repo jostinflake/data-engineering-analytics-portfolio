@@ -1,1 +1,1 @@
-Holds all projects pertaining to data analytics work.
+Holds all projects pertaining to my data analytics work.
